@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body,
+h1,
+ul,
+li,
+div{
+    margin: 0;
+    padding: 0;
+    color:black;
+    font-family: 'メイリオ', Meiryo, ヒラギノ角ゴシック ,Hiragino Sans ,Hiragino Kaku Gotiic ProN ,ヒラギノ角ゴ ProN W3;
+}
+
+a{
+    text-decoration: none;
+    color: inherit
+}
+
+ul{
+    list-style: none;
+}
